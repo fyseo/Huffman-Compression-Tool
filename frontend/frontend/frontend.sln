@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frontend", "frontend\frontend.csproj", "{888A0C4A-D281-46EA-9B96-DF000EFD6785}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{50EDD579-EEFE-49C5-A35A-D439870D58D0}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Downloads\Press_Start_2P\PressStart2P-Regular.ttf = D:\Downloads\Press_Start_2P\PressStart2P-Regular.ttf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888A0C4A-D281-46EA-9B96-DF000EFD6785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888A0C4A-D281-46EA-9B96-DF000EFD6785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888A0C4A-D281-46EA-9B96-DF000EFD6785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888A0C4A-D281-46EA-9B96-DF000EFD6785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E7FF30-8817-4BFF-8645-B7B8959C23CB}
+	EndGlobalSection
+EndGlobal
